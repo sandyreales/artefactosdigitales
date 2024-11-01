@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>recursos</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>F1E7EF</corfondo>
+        <corbanda>E774C5</corbanda>
+        <cornavega>EC91D0</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Artefactos Digitales</titulo>
+        <autor>Sandy Reales</autor>
+        <iden>2024164023</iden>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Excelente</correcto>
+        <incorrecto son="" modo="1" >Sigue intentando</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>portada.jpg</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Arial" size="20"><b>Los artefactos digitales</b> son herramientas o cosas que creamos y usamos con dispositivos tecnológicos, como computadoras, tabletas y teléfonos. Estos incluyen fotos, videos, documentos, juegos, dibujos, aplicaciones y más. Los usamos para aprender, jugar, trabajar o simplemente divertirnos, todo en un formato que solo se puede ver en una pantalla. Por ejemplo, en la escuela, un artefacto digital puede ser una presentación hecha en PowerPoint o un video educativo en YouTube. En casa, pueden ser los juegos que tenemos en el celular o las fotos familiares guardadas en la computadora.<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <modo>3</modo>
+              <cousa nome="Audifonos">Audifonos.jpg</cousa>
+              <cousa nome="Telefono">telefono.jpg</cousa>
+              <cousa nome="Ipad">Ipad.jpg</cousa>
+              <cousa nome="Computador">pc.jpg</cousa>
+              <cousa nome="Reloj Digital">Reloj_Digital.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>19</tipo>
+              <imaxe>portada.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="">Artefactos Digitales</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <imaxe>Artefactos_Digitaless.jpg</imaxe>
+              <imfondo  trans="40">Artefactos_Digitaless.jpg</imfondo>
+              <filas>6</filas>
+              <columnas>5</columnas>
+              <reixa>0</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <parellas>Audifonos.jpg</parellas>
+              <parellas>Impresora.jpg</parellas>
+              <parellas>Ipad.jpg</parellas>
+              <parellas>Reloj_Digital.jpg</parellas>
+              <parellas>telefono.jpg</parellas>
+              <parellas>pc.jpg</parellas>
+              <cfondo>F1E7EF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>25</tempo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="Audifonos.jpg">audifonos</sopa>
+              <sopa enun="Ipad.jpg">computador</sopa>
+              <sopa enun="telefono.jpg">Ipad</sopa>
+              <sopa enun="Controlremoto.jpg">reloj</sopa>
+              <sopa enun="pc.jpg">telefono</sopa>
+              <sopa enun="Reloj_Digital.jpg">impresora</sopa>
+              <sopa enun="Impresora.jpg">control</sopa>
+              <sopa enun="Smartv.jpg">televisor</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="7" >
+              <tipo>38</tipo>
+              <imaxe>Artefactos_Digitaless.jpg</imaxe>
+              <forma>2</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Times New Roman" size="20">En conclusión, <b>los artefactos digitales </b>son herramientas que facilitan nuestro aprendizaje, entretenimiento y comunicación en el mundo moderno. Son creaciones que existen solo en dispositivos tecnológicos y nos ayudan a interactuar de nuevas maneras. Gracias a ellos, podemos acceder a información, crear contenido y conectarnos con otras personas desde cualquier lugar, haciendo que el uso de la tecnología sea cada vez más esencial en nuestra vida cotidiana.<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+    </libro>
+</lim>
